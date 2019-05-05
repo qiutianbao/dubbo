@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/dubbo-api/dubbo-api.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/dubbo-api/dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services-boot-dubbo/services-api/services-api.iml" filepath="$PROJECT_DIR$/services-boot-dubbo/services-api/services-api.iml" />
+      <module fileurl="file://D:\project\back\personcode\dubbo\services-api\services-api.iml" filepath="D:\project\back\personcode\dubbo\services-api\services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services-boot-dubbo/services-boot-dubbo.iml" filepath="$PROJECT_DIR$/services-boot-dubbo/services-boot-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services-boot-dubbo/services-client/services-client.iml" filepath="$PROJECT_DIR$/services-boot-dubbo/services-client/services-client.iml" />
+      <module fileurl="file://D:\project\back\personcode\dubbo\services-client\services-client.iml" filepath="D:\project\back\personcode\dubbo\services-client\services-client.iml" />
+      <module fileurl="file://D:\project\back\personcode\dubbo\services-consumer\services-consomer.iml" filepath="D:\project\back\personcode\dubbo\services-consumer\services-consomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services-boot-dubbo/services-server/services-server.iml" filepath="$PROJECT_DIR$/services-boot-dubbo/services-server/services-server.iml" />
+      <module fileurl="file://D:\project\back\personcode\dubbo\services-server\services-server.iml" filepath="D:\project\back\personcode\dubbo\services-server\services-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo.iml" filepath="$PROJECT_DIR$/spring-boot-dubbo/spring-boot-dubbo.iml" />
+    </modules>
+  </component>
+</project>
